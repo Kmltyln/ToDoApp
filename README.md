@@ -1,1 +1,1 @@
-Javascript ile basit bir to-do-app yazdım
+Javascript ile basit bir to-do-app yazdım.
