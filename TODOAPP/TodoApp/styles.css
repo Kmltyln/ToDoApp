@@ -1,0 +1,19 @@
+#filters span.active{
+    font-weight: bold;
+    color: dodgerblue;
+}
+
+#filters span{
+    cursor: pointer;
+}
+
+input[type="text"]:disabled{
+    background-color: #fff;
+    color: #000;
+    opacity: 1;
+    border:none;
+}
+.checked{
+    text-decoration: line-through;
+    background-color: tomato;
+}
